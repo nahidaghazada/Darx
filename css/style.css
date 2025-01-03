@@ -418,7 +418,7 @@ input::placeholder{
     .icon{
         grid-template-rows: auto;
         grid-template-columns: auto auto auto auto auto auto auto ;
-        gap: 30px;
+        gap: 28px;
         position: absolute;
         top:-45px;
         left:50%;
